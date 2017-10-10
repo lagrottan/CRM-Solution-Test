@@ -1,0 +1,186 @@
+{
+  "_organizations": [
+    {
+      "DiscoveryURL": "https://disco.crm.dynamics.com/xrmservices/2011/discovery.svc",
+      "OrganizationURL": "https://intrinsicclinicaldemo.api.crm.dynamics.com",
+      "HomeRealmUri": "",
+      "OrganizationVersion": "8.2.1.360",
+      "_projects": [
+        {
+          "Name": "WebResources.csproj",
+          "NameWithoutExtension": "WebResources",
+          "ProjectPreferences": {
+            "JavaScriptsPath": "\\Web",
+            "TypeScriptsPath": "\\Web",
+            "ImagesPath": "\\Web",
+            "WebFilesPath": "\\Web",
+            "CSSPath": "\\Web",
+            "XslPath": "\\Web",
+            "XmlPath": "\\Web",
+            "SilverlightPath": "\\Xap",
+            "JavaScriptIntellisenseSubDirectoryPath": "\\IntellisenseFiles",
+            "TypeScriptIntellisenseSubDirectoryPath": "\\IntellisenseFiles",
+            "SitemapPath": "\\Sitemap",
+            "ChartsPath": "\\Charts",
+            "ViewPath": "\\Views",
+            "ProxyClassesPath": "\\ProxyClasses",
+            "EmailTemplatesPath": "\\EmailTemplates",
+            "ProcessesPath": "\\Processes",
+            "EntityMetadataPath": "\\EntityMetadata",
+            "PluginConfigurationsPath": "\\PluginConfigurations",
+            "BaseProxyClassRelativePath": "\\",
+            "CustomAssemblyConfigPath": "\\AssemblyConfig",
+            "JavaScriptMinification": 0,
+            "CSSMinification": 0,
+            "AutoRefreshIntellisenseFilesOnMetadataChanges": true,
+            "ServiceContextName": "CrmServiceContext",
+            "EnumsFileName": "OptionSetEnums",
+            "BaseProxyClassFileName": "BaseProxyClass",
+            "AutoRefreshProxyClassesOnMetadataChanges": true,
+            "PluginPath": "",
+            "WorkflowPath": "",
+            "ProxyClassGenerationOptions": 1,
+            "ProxyClassGenerationMethod": 1,
+            "ProxyClassNamingConvention": 1,
+            "ProxyClassNamingPattern": "{0}",
+            "UseStronglyTypeNameForProxyClassRelatedEntities": true
+          },
+          "_files": [
+            {
+              "$type": "SS.XrmToolkit.Common.ApplicationObjects.JavaScriptIntellisenseFile, SS.XrmToolkit.Common",
+              "AutoRefreshOnChanges": true,
+              "EntityLogicalName": "account",
+              "RelativeFilePath": "Web\\IntellisenseFiles\\Account Form - Account.js",
+              "Name": "Account Form - Account.js",
+              "CrmId": "8448b78f-8f42-454e-8e2a-f8196b0419af"
+            },
+            {
+              "$type": "SS.XrmToolkit.Common.ApplicationObjects.TypeScriptIntellisenseFile, SS.XrmToolkit.Common",
+              "AutoRefreshOnChanges": true,
+              "EntityLogicalName": "account",
+              "RelativeFilePath": "Web\\IntellisenseFiles\\Account Form - Account.ts",
+              "Name": "Account Form - Account.ts",
+              "CrmId": "8448b78f-8f42-454e-8e2a-f8196b0419af"
+            },
+            {
+              "$type": "SS.XrmToolkit.Common.ApplicationObjects.TypeScriptIntellisenseFile, SS.XrmToolkit.Common",
+              "AutoRefreshOnChanges": true,
+              "EntityLogicalName": "account",
+              "RelativeFilePath": "Web\\IntellisenseFiles\\Account Form - Information.ts",
+              "Name": "Account Form - Information.ts",
+              "CrmId": "b053a39a-041a-4356-acef-ddf00182762b"
+            },
+            {
+              "$type": "SS.XrmToolkit.Common.ApplicationObjects.JavaScriptIntellisenseFile, SS.XrmToolkit.Common",
+              "AutoRefreshOnChanges": true,
+              "EntityLogicalName": "contact",
+              "RelativeFilePath": "Web\\IntellisenseFiles\\Contact Form - Contact.js",
+              "Name": "Contact Form - Contact.js",
+              "CrmId": "1fed44d1-ae68-4a41-bd2b-f13acac4acfa"
+            },
+            {
+              "$type": "SS.XrmToolkit.Common.ApplicationObjects.TypeScriptIntellisenseFile, SS.XrmToolkit.Common",
+              "AutoRefreshOnChanges": true,
+              "EntityLogicalName": "contact",
+              "RelativeFilePath": "Web\\IntellisenseFiles\\Contact Form - Contact.ts",
+              "Name": "Contact Form - Contact.ts",
+              "CrmId": "1fed44d1-ae68-4a41-bd2b-f13acac4acfa"
+            },
+            {
+              "$type": "SS.XrmToolkit.Common.ApplicationObjects.TypeScriptIntellisenseFile, SS.XrmToolkit.Common",
+              "AutoRefreshOnChanges": true,
+              "EntityLogicalName": "contact",
+              "RelativeFilePath": "Web\\IntellisenseFiles\\Contact Form - Information.ts",
+              "Name": "Contact Form - Information.ts",
+              "CrmId": "894cc46a-b0cb-4ab0-8bf6-200544e46a2d"
+            },
+            {
+              "$type": "SS.XrmToolkit.Common.ApplicationObjects.SitemapFile, SS.XrmToolkit.Common",
+              "RelativeFilePath": "Sitemap\\Default.crmsitemap",
+              "Name": "Default.crmsitemap",
+              "CrmId": "1fcee41b-305b-e611-80d9-c4346bad17c4"
+            },
+            {
+              "$type": "SS.XrmToolkit.Common.ApplicationObjects.JavaScriptIntellisenseFile, SS.XrmToolkit.Common",
+              "AutoRefreshOnChanges": true,
+              "EntityLogicalName": "new_sample",
+              "RelativeFilePath": "Web\\IntellisenseFiles\\Sample Form - Information.js",
+              "Name": "Sample Form - Information.js",
+              "CrmId": "b5497064-610f-4b1e-8754-03c1a74e884d"
+            },
+            {
+              "$type": "SS.XrmToolkit.Common.ApplicationObjects.JavaScriptFile, SS.XrmToolkit.Common",
+              "ForceExecutionOfGulpTaskOnBulkUpdate": false,
+              "MinifyMode": 0,
+              "RelativeFilePath": "Web\\sample_library_main.js",
+              "Name": "sample_library_main.js",
+              "CrmId": "80f1fdc2-2c6d-e611-80de-c4346bad5678"
+            },
+            {
+              "$type": "SS.XrmToolkit.Common.ApplicationObjects.TypeScriptIntellisenseCommonFile, SS.XrmToolkit.Common",
+              "AutoRefreshOnChanges": false,
+              "RelativeFilePath": "Web\\IntellisenseFiles\\Xrm.d.ts",
+              "Name": "Xrm.d.ts",
+              "CrmId": "00000000-0000-0000-0000-000000000000"
+            },
+            {
+              "$type": "SS.XrmToolkit.Common.ApplicationObjects.JavaScriptIntellisenseCommonFile, SS.XrmToolkit.Common",
+              "AutoRefreshOnChanges": false,
+              "RelativeFilePath": "Web\\IntellisenseFiles\\Xrm.js",
+              "Name": "Xrm.js",
+              "CrmId": "00000000-0000-0000-0000-000000000000"
+            }
+          ],
+          "ProjectSettings": {
+            "$type": "SS.XrmToolkit.Common.ApplicationObjects.WebsiteSettings, SS.XrmToolkit.Common"
+          }
+        }
+      ],
+      "OrganizationName": "org6af7125f",
+      "OrganizationDisplayName": "Intrinsic Clinical Demo Environment",
+      "UserFriendlyName": "Intrinsic Clinical Demo Environment",
+      "SelectedSolution": {
+        "UniqueName": "Default",
+        "Id": "fd140aaf-4df4-11dd-bd17-0019b9312238",
+        "LogicalName": "solution",
+        "Name": "Default Solution"
+      },
+      "OrganizationPreferences": {
+        "JavaScriptsPath": "\\Web",
+        "TypeScriptsPath": "\\Web",
+        "ImagesPath": "\\Web",
+        "WebFilesPath": "\\Web",
+        "CSSPath": "\\Web",
+        "XslPath": "\\Web",
+        "XmlPath": "\\Web",
+        "SilverlightPath": "\\Xap",
+        "JavaScriptIntellisenseSubDirectoryPath": "\\IntellisenseFiles",
+        "TypeScriptIntellisenseSubDirectoryPath": "\\IntellisenseFiles",
+        "SitemapPath": "\\Sitemap",
+        "ChartsPath": "\\Charts",
+        "ViewPath": "\\Views",
+        "ProxyClassesPath": "\\ProxyClasses",
+        "EmailTemplatesPath": "\\EmailTemplates",
+        "ProcessesPath": "\\Processes",
+        "EntityMetadataPath": "\\EntityMetadata",
+        "PluginConfigurationsPath": "\\PluginConfigurations",
+        "BaseProxyClassRelativePath": "\\",
+        "CustomAssemblyConfigPath": "\\AssemblyConfig",
+        "JavaScriptMinification": 1,
+        "CSSMinification": 1,
+        "AutoRefreshIntellisenseFilesOnMetadataChanges": true,
+        "ServiceContextName": "CrmServiceContext",
+        "EnumsFileName": "OptionSetEnums",
+        "BaseProxyClassFileName": "BaseProxyClass",
+        "AutoRefreshProxyClassesOnMetadataChanges": true,
+        "PluginPath": "",
+        "WorkflowPath": "",
+        "ProxyClassGenerationOptions": 4,
+        "ProxyClassGenerationMethod": 1,
+        "ProxyClassNamingConvention": 1,
+        "ProxyClassNamingPattern": "{0}",
+        "UseStronglyTypeNameForProxyClassRelatedEntities": true
+      }
+    }
+  ]
+}
